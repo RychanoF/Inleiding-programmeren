@@ -1,7 +1,7 @@
-for(int i = 0; i < 10; i++){
-print(i * 20 + 20);
+for(int i = 1; i < 11; i++){
+print(i * 10);
 print("|");
-print(i*20);
+print(i*10);
 print("|");
 println(i);
 }
